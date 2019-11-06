@@ -1,6 +1,6 @@
 # Aceleracao Java
 
-Este repositorio concentra os projetos utilizados durante o programa de Aceleracao DEV Java.
+Este repositorio concentra alguns projetos utilizados durante o programa de Aceleracao DEV Java.
 
 #### 1 - Aula Java 8
 
